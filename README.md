@@ -11,3 +11,6 @@ D. Gomes, A. Espírito Santo, and J. Páscoa, “Enhancing PINN-Based Flow Recon
 
 <img width="8192" height="5429" alt="Overview" src="https://github.com/user-attachments/assets/99da0680-a7bd-431d-8892-bcbe769a46f9" />
 
+<img width="1414" height="620" alt="image" src="https://github.com/user-attachments/assets/8ed538e5-4b90-46dd-a392-ae625f26a917" />
+
+
